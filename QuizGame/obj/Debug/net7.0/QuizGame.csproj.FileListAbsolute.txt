@@ -1,0 +1,15 @@
+C:\Users\shiba\Downloads\Quiz Game\QuizGame\bin\Debug\net7.0\QuizGame.exe
+C:\Users\shiba\Downloads\Quiz Game\QuizGame\bin\Debug\net7.0\QuizGame.deps.json
+C:\Users\shiba\Downloads\Quiz Game\QuizGame\bin\Debug\net7.0\QuizGame.runtimeconfig.json
+C:\Users\shiba\Downloads\Quiz Game\QuizGame\bin\Debug\net7.0\QuizGame.dll
+C:\Users\shiba\Downloads\Quiz Game\QuizGame\bin\Debug\net7.0\QuizGame.pdb
+C:\Users\shiba\Downloads\Quiz Game\QuizGame\obj\Debug\net7.0\QuizGame.csproj.AssemblyReference.cache
+C:\Users\shiba\Downloads\Quiz Game\QuizGame\obj\Debug\net7.0\QuizGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiba\Downloads\Quiz Game\QuizGame\obj\Debug\net7.0\QuizGame.AssemblyInfoInputs.cache
+C:\Users\shiba\Downloads\Quiz Game\QuizGame\obj\Debug\net7.0\QuizGame.AssemblyInfo.cs
+C:\Users\shiba\Downloads\Quiz Game\QuizGame\obj\Debug\net7.0\QuizGame.csproj.CoreCompileInputs.cache
+C:\Users\shiba\Downloads\Quiz Game\QuizGame\obj\Debug\net7.0\QuizGame.dll
+C:\Users\shiba\Downloads\Quiz Game\QuizGame\obj\Debug\net7.0\refint\QuizGame.dll
+C:\Users\shiba\Downloads\Quiz Game\QuizGame\obj\Debug\net7.0\QuizGame.pdb
+C:\Users\shiba\Downloads\Quiz Game\QuizGame\obj\Debug\net7.0\QuizGame.genruntimeconfig.cache
+C:\Users\shiba\Downloads\Quiz Game\QuizGame\obj\Debug\net7.0\ref\QuizGame.dll
